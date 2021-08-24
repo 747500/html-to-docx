@@ -11,6 +11,7 @@
     "word"
   ],
   "main": "dist/html-to-docx.umd.js",
+  "types": "index.d.ts",
   "module": "dist/html-to-docx.esm.js",
   "scripts": {
     "test": "npm run build && node example/example-node.js",
